@@ -1,0 +1,60 @@
+.my-col1 {
+    background-color: rgba(0, 0, 0, 0.808);
+    color: white;
+    padding: 3%;
+ }
+ .my-col2 {
+     background-color: rgb(226, 222, 222);
+     align-items: center;
+ }
+ .my-col3 {
+     background-color: white;
+ }
+ .my-row {
+     height: auto;
+     width: auto;
+ }
+ .my-nav {
+     color: white;
+     margin-top: 10%;
+ }
+ .btn1{
+   margin-left: 80%;
+ }
+ .btn-warning {
+     background-color: gold;
+     color: white;
+     align-content: space-between;
+ }
+ .btn-warning1 {
+  background-color: grey;
+  color: black;
+  align-content: space-between;
+}
+.container-sm1{
+  border-radius: 1px;
+  border-color: black;
+}
+ .my-input {
+    margin-top: 40%;
+    height: 200px;
+ }
+ .my-group {
+     margin-top: 40%;
+ }
+ .show-and-hide-nav {
+  /* This makes my collapse nav show up
+  when my screen is at a medium breakpoint
+  this is so my nav can be collapsed when  */
+  display: block!important;
+}
+
+#search-bar{
+  
+  width: calc(100% - 100px);
+  
+}
+#search-wrapper{
+display: flex;
+justify-content: space-between;
+}
