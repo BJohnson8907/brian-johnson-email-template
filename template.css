@@ -7,6 +7,18 @@
      background-color: rgb(226, 222, 222);
     
     }
+    .container-2 {
+      border-radius: 1px;
+      border-color: black;
+    }
+    .container-highlighted {
+       box-shadow: 3px 3px 6px blue;
+       padding: 5%;
+    }
+    .container-3 {
+      border-radius: 1px;
+      border-color: black;
+    }
  .my-col3 {
      background-color: white;
      }
